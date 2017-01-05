@@ -149,7 +149,7 @@ end
 
 ---------------------------------------------------------------------
 
-epochs = 130
+epochs = 1
 testLoss = torch.Tensor(epochs)
 testError = torch.Tensor(epochs)
 
